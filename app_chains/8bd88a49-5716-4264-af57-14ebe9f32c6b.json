@@ -1,0 +1,8 @@
+{
+  "name": "0xCOY",
+  "logo": "https://i.imgur.com/a/kqtGtnZ",
+  "rpc_url": "http://128.199.155.90:9944/",
+  "explorer_url": "http://128.199.155.90:4000",
+  "metrics_endpoint": "http://128.199.155.90:9615/metrics",
+  "id": "8bd88a49-5716-4264-af57-14ebe9f32c6b"
+}
